@@ -4,4 +4,4 @@ for adding to staging area: GIT addp <filename>
 for commiting: GIT commit
 for watching status: GIT status
 **GIT is to be written as git**
-
+for checking commit history: git log
