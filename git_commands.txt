@@ -1,0 +1,7 @@
+GIT COmmands
+for cloning: GIT clone <url>
+for adding to staging area: GIT addp <filename>
+for commiting: GIT commit
+for watching status: GIT status
+**GIT is to be written as git**
+
