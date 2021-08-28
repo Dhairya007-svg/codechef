@@ -9,3 +9,6 @@ for creating a new branch :
 git branch <branchName>
 for switching to another branch:
 git checkout <branchName>
+for mreging to main branch in which you want to merge a given file 
+and :
+git merge <branchName>
