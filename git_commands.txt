@@ -1,7 +1,11 @@
-GIT COmmands
+GIT Cmmands
 for cloning: GIT clone <url>
-for adding to staging area: GIT addp <filename>
+for adding to staging area: GIT add <filename>
 for commiting: GIT commit
 for watching status: GIT status
 **GIT is to be written as git**
 for checking commit history: git log
+for creating a new branch : 
+git branch <branchName>
+for switching to another branch:
+git checkout <branchName>
